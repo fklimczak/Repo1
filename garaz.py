@@ -120,4 +120,5 @@ lista_dni = ["poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota
 
 print("garaz")
     
-
+print("opel corsa")
+print("skoda fabia")
