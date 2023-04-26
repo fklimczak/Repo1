@@ -6,6 +6,7 @@
 # wynik = kwadrat(liczba)
 
 # print(wynik)
+print("lewoprawogoradol)
 
 # def dodawanie(licz1, licz2):
 #     suma = licz1 + licz2
