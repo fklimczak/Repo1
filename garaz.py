@@ -118,6 +118,6 @@ lista_dni = ["poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota
 # print(kon)
 
 
-
+print("garaz")
     
 
